@@ -32,7 +32,7 @@ This project implements a CNN-based image classifier to detect and classify hand
 - Image preprocessing (resizing, normalization)
 - Training & validation with performance metrics
 - Confusion matrix and accuracy/precision/recall reports
-- Simple user interface for predictions (optional)
+- Simple user interface for predictions 
 
 ---
 
